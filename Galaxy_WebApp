@@ -1,0 +1,1 @@
+The Web App used for Galaxy Shape Classification is made using streamlit library of python. The weights are adjusted such that the training and testing has maximum accuracy.
