@@ -1,6 +1,0 @@
-cv2
-numpy
-streamlit
-tensorflow
-requests 
-PIL
